@@ -31,7 +31,7 @@ def python_test():
         else:
             print(f"Wrong😒, The correct answer is: {correct_answer}\n")
 
-    print(f"Game over! Your final scire is: {score}/{total_questions}")
+    print(f"Game over! Your final score is: {score}/{total_questions}")
 
 
 
